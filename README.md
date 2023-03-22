@@ -1,5 +1,3 @@
-## TypeScript学习指南
-
 ### TypeScript开发环境搭建
 
 ```powershell
@@ -227,5 +225,5 @@ ts-node hello.ts
               - 是否生成sourceMap
               - 默认值：false
 
-### 基本类型
+
 
